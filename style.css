@@ -53,6 +53,7 @@
 }
 .header{
    background-image: url(../web-developer-portfolio/images/developer.png);
+   background-repeat: no-repeat;
 
 }
 /* nav styles */
